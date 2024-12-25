@@ -7,16 +7,16 @@
 
 ##
 > [!NOTE]
->A DOF2.1 é uma include atualizada para o San Andreas Multiplayer (SA:MP) e Open Multiplayer(OMP), garantindo compatibilidade total com as versões 3.10.10 e 3.10.11 do compilador Pawno. Essa atualização foi necessária devido às mudanças na sintaxe do compilador, que não aceita mais includes antigas sem gerar inúmeros avisos ou erros.
+> DOF2.1 is an updated include for San Andreas Multiplayer (SA:MP) and Open Multiplayer (OMP), ensuring full compatibility with versions 3.10.10 and 3.10.11 of the Pawno compiler. This update was necessary due to changes in the compiler syntax, which no longer accepts old includes without generating numerous warnings or errors.
 
 > [!TIP]
-> Você pode contribuir para a evolução da DOF2.1! Envie melhorias, correções ou novas funcionalidades que aprimorem o desempenho e a usabilidade da include. É importante que o código seja compatível com as versões mais recentes do Pawno para manter a integração suave e eficiente.
+> You can contribute to the evolution of DOF2.1! Submit improvements, fixes, or new features that enhance the performance and usability of include. It is important that your code is compatible with the latest versions of Pawno to keep the integration smooth and efficient.
 
 > [!IMPORTANT]
-> Este repositório está em constante desenvolvimento. As próximas atualizações incluirão otimizações de desempenho e suporte a funcionalidades adicionais do compilador atualizado. Qualquer problema não exite em abir um pullrequest ou issue.
+> This repository is under constant development. Future updates will include performance optimizations and support for additional features of the updated compiler. If you have any problems, please don't hesitate to open a pullrequest or issue.
 
 > [!WARNING]
-> Para evitar problemas de compatibilidade, é essencial que você substitua as versões antigas da DOF2.inc pela versão mais recente. A atualização garante que o seu projeto funcione sem erros ou avisos indesejados.
+> To avoid compatibility issues, it is essential that you replace old versions of DOF2.inc with DOF2.1.inc. Also, note whether you use SA:MP or OMP and download the corresponding version from [Release](https://github.com/Collw/DOF2.1-Include/releases)
 
 > [!CAUTION]
-> Certifique-se de estar usando as versões recentes do compilador. Isso ajudará a mitigar riscos de incompatibilidade e aproveitar ao máximo as melhorias introduzidas na nova versão.
+> Make sure you are using the most recent versions of the compiler. This will help mitigate incompatibility risks and take full advantage of the improvements introduced in the new version.

@@ -8,8 +8,8 @@
 /*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
  
 /*
- * DOF2.1 Include 1.0.2samp
- * San Andreas Multiplayer Version
+ * DOF2.1 Include 1.0.2omp
+ * Open Multiplayer Version
  * Updated by Collw (github.com/collw)
  *
  * Contributors: w0nht

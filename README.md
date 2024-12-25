@@ -7,7 +7,7 @@
 
 ##
 > [!NOTE]
->A DOF2.1 é uma include atualizada para o San Andreas Multiplayer (SA:MP), garantindo compatibilidade total com as versões 3.10.10 e 3.10.11 do compilador Pawno. Essa atualização foi necessária devido às mudanças na sintaxe do compilador, que não aceita mais includes antigas sem gerar inúmeros avisos ou erros.
+>A DOF2.1 é uma include atualizada para o San Andreas Multiplayer (SA:MP) e Open Multiplayer(OMP), garantindo compatibilidade total com as versões 3.10.10 e 3.10.11 do compilador Pawno. Essa atualização foi necessária devido às mudanças na sintaxe do compilador, que não aceita mais includes antigas sem gerar inúmeros avisos ou erros.
 
 > [!TIP]
 > Você pode contribuir para a evolução da DOF2.1! Envie melhorias, correções ou novas funcionalidades que aprimorem o desempenho e a usabilidade da include. É importante que o código seja compatível com as versões mais recentes do Pawno para manter a integração suave e eficiente.

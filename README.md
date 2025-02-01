@@ -2,7 +2,7 @@
 
 ## Autores
 
-- [@Collw](https://www.github.com/Collw)
+- [@Wens](https://www.github.com/TheWens)
 - [@w0nht](https://www.github.com/w0nht)
 
 ##

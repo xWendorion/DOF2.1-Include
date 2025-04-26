@@ -2,7 +2,7 @@
 
 ## Autores
 
-- [@Wens](https://www.github.com/TheWens)
+- [@Geoweon](https://www.github.com/Geoweon)
 - [@w0nht](https://www.github.com/w0nht)
 
 ##

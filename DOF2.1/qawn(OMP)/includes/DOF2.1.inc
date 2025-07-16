@@ -10,7 +10,7 @@
 /*
  * DOF2.1 Include 1.0.2omp
  * Open Multiplayer Version
- * Updated by Collw (github.com/collw)
+ * Updated by xWendorion (github.com/xWendorion)
  *
  * Contributors: w0nht
  *

@@ -1064,7 +1064,7 @@ stock DOF2::ParseFile (const file [], extraid = -1, bool: callback = false)
  
 			for (new i, size = flength (f); i < size; ++i)
 			{
-			    c = fgetchar (f, 0, UseUTF8);
+			    c = fgetchar(f, UseUTF8); // correto
 				if (pos == MAX_LINE_SIZE - 1 || c == '\n' || c == '\r')
 				    c = '\0';
 			#if PACK_CONTENT == true
